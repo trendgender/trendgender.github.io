@@ -5,7 +5,7 @@ color sets the colour of the text on the page.
  */
 
 html, body{
-  background-color: Snow;
+  background-color: White;
   color: Black;
 }
 
@@ -38,7 +38,7 @@ This sets the colour of the links on your page
  */
 
 a, a:visited {
-  color: MidnightBlue;
+  color: Black;
 }
 
 /*
@@ -46,7 +46,7 @@ This sets the colour of the link when you hover over it
  */
 
 a:hover {
-  color: DarkOrange;
+  color: Lime;
 }
 
 /*
@@ -54,7 +54,7 @@ This sets the colour of the circle around each of the contact icons
  */
 
 .fab, .fas{
-  background-color: Snow;
+  background-color: Lime;
 }
 
 /*
@@ -62,7 +62,7 @@ This sets the colour of icon itself
  */
 
 a > .fab, a > .fas{
-  color: DarkCyan;
+  color: Black;
 }
 
 /*
@@ -70,7 +70,7 @@ This sets the colour of the circle around the icon when you hover over it
  */
 
 .fab:hover, .fas:hover{
-  background-color: Snow;
+  background-color: Black;
 }
 
 /*
@@ -78,5 +78,5 @@ This sets the colour of icon itself when you hover over it
  */
 
 a > .fab:hover, a > .fas:hover{
-  color: DarkOrange;
+  color: Lime;
 }
