@@ -2,6 +2,18 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 
+#statuscafe {
+    padding: .5em;
+    background-color: azure;
+    border: 1px solid midnightblue;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+
 html{
   background-color: #eee;
 }
@@ -136,3 +148,4 @@ a > .fab, a > .fas{
           display: block;
         }
     }
+
