@@ -79,7 +79,7 @@ a:hover {
 }
 
 .contact a{
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .fab, .fas{
