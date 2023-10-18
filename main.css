@@ -96,7 +96,7 @@ a > .fab, a > .fas{
 }
 
 .fab:hover, .fas:hover{
-  background-color: blue;
+  background-color: white;
 }
 
 img,
