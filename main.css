@@ -7,7 +7,7 @@ html{
 }
 
 body{
-  margin: 1px;
+  margin: 0;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   color: #111;
@@ -99,6 +99,7 @@ a > .fab, a > .fas{
   background-color: white;
 }
 
+text,
 img,
 picture,
 video {
