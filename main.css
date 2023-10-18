@@ -98,3 +98,9 @@ a > .fab, a > .fas{
 .fab:hover, .fas:hover{
   background-color: blue;
 }
+
+img,
+picture,
+video {
+  max-width: 100%;
+}
