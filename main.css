@@ -43,7 +43,7 @@ h4{
   padding: 3em 8em;
   animation: fadein 2s;
   position: relative;
-  z-index: 0;
+  z-index: 1;
 }
 
 
