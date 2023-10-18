@@ -40,10 +40,10 @@ h4{
 }
 
 .list{
-  padding: 3em 8em;
+  padding: 1em 3em;
   animation: fadein 2s;
   position: relative;
-  z-index: 1;
+  z-index: 0;
 }
 
 
