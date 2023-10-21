@@ -13,7 +13,18 @@ body{
   color: black;
   background-color: white;
 }
+.div-1{
+  color: limegreen;
+  text-decoration: dotted black;
+  line-height: 1.6em;
+}
 
+a, a:visited {
+  color: limegreen; 
+}
+a:hover {
+  color: black;
+}
 h1, h2, h3{
   font-family: 'Open Sans', sans-serif;
 }
@@ -103,18 +114,6 @@ img,
 picture,
 video {
   max-width: 100%;
-}
-
-div-1 {text-align: center}
-      
-      a, a:visited {
-  color: limegreen;
-  text-decoration: dotted black;
-  line-height: 1.6em;
-}
-
-a:hover {
-  color: black;
 }
 
 
