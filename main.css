@@ -143,8 +143,8 @@ video {
         }
       
 #statuscafe {
-    padding: .5em;
-    background-color: white;
+    padding: 5em;
+    background-color: black;
     border: 1px solid limegreen;
 }
 #statuscafe-username {
