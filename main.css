@@ -144,8 +144,8 @@ video {
       
 #statuscafe {
     padding: .5em;
-    background-color: azure;
-    border: 1px solid midnightblue;
+    background-color: white;
+    border: 1px solid limegreen;
 }
 #statuscafe-username {
     margin-bottom: .5em;
