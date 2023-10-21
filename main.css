@@ -142,3 +142,14 @@ video {
           display: block;
         }
       
+
+.div-1{
+      a, a:visited {
+  color: limegreen;
+  text-decoration: dotted black;
+  line-height: 1.6em;
+}
+
+a:hover {
+  color: black;
+}}
