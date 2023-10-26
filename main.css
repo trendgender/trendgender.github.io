@@ -19,11 +19,13 @@ body{
   line-height: 1.6em;
 }
 
-a, a:visited {
-  color: limegreen; 
+a {color: limegreen}
+
+a:visited {
+  color: green; 
 }
 a:hover {
-  color: black;
+  color: lime;
 }
 h1, h2, h3{
   font-family: 'Open Sans', sans-serif;
