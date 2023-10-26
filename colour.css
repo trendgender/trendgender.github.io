@@ -33,26 +33,6 @@ h4{
   color: Black;
 }
 
-/*
-This sets the colour of the links on your page
- */
-
-a, a:visited {
-  color: Black;
-}
-
-/*
-This sets the colour of the link when you hover over it
- */
-
-a:hover {
-  color: Lime;
-}
-
-/*
-This sets the colour of the circle around each of the contact icons
- */
-
 .fab, .fas{
   background-color: Lime;
 }
