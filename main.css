@@ -155,4 +155,16 @@ video {
         .bioTitle{
           display: block;
         }
-    
+    #statuscafe {
+    padding: .5em;
+    background-color: white;
+    border: 1px solid black;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+a, a:visited {color: lime;}
+
