@@ -61,13 +61,13 @@ h4{
 
 
 a, a:visited {
-  color: black;
+  color: limegreen;
   text-decoration: none;
   line-height: 1.6em;
 }
 
 a:hover {
-  color: black;
+  color: lime;
 }
 
 .bio{
@@ -155,16 +155,5 @@ video {
         .bioTitle{
           display: block;
         }
-    #statuscafe {
-    padding: .5em;
-    background-color: white;
-    border: 1px solid black;
-}
-#statuscafe-username {
-    margin-bottom: .5em;
-}
-#statuscafe-content {
-    margin: 0 1em 0.5em 1em;
-}
-a, a:visited {color: lime;}
+    
 
