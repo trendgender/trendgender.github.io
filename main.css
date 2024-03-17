@@ -1,27 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Verdana:700');
-@import url('https://fonts.googleapis.com/css?family=Verdana');
-
-
 html{
   background-color: white;
 }
-@@ -19,99 +15,32 @@ body{
-  line-height: 1.6em;
+
+ body {
+   line-height: 1.6em;
 }
 
-a {color: limegreen}
 a {
-  color: limegreen
+  color: limegreen;
+  line-height: 1.6em;
 }
 
 a:visited {
   color: green; 
+  line-height: 1.6em;
 }
 a:hover {
   color: lime;
+  line-height: 1.6em;
 }
-h1, h2, h3{
-  font-family: 'Verdana', sans-serif;
+
+a:selected {
+  color: lime;
+  line-height: 1.6em;
 }
 
 h1{
@@ -50,17 +51,6 @@ h4{
   animation: fadein 2s;
   position: relative;
   z-index: 0;
-}
-
-
-a, a:visited {
-  color: limegreen;
-  text-decoration: none;
-  line-height: 1.6em;
-}
-
-a:hover {
-  color: lime;
 }
 
 .bio{
