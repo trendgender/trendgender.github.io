@@ -9,11 +9,13 @@ html{
 a {
   color: limegreen;
   line-height: 1.6em;
+  text-decoration: none;
 }
 
 a:visited {
   color: green; 
   line-height: 1.6em;
+  text-decoration: none;
 }
 a:hover {
   color: lime;
