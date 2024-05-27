@@ -2,7 +2,7 @@ html{
   background-color: white;
 }
 
- body {
+ body, p {
    line-height: 1.3em;
    font-family: monospace;
 }
@@ -17,18 +17,11 @@ a:visited {
   line-height: 1.3em;
 }
 a:hover {
-  color: lime;
+  color: white;
   line-height: 1.3em;
 }
 
 a:selected {
-  color: lime;
-  line-height: 1.3em;
-
-}
-
-h3{
-  text-transform: uppercase;
-  font-weight: 900;
-  padding-top: 1.5em;
+  color: white;
+  line-height: 1.3em; 
 }
