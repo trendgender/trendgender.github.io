@@ -23,11 +23,7 @@ a:hover {
 }
 
 a:selected {
-   background-color: black;
-   line-height: 1.3em;
-   font-family: monospace;
-  color: lightgreen;
-  text-decoration: none;
+   text-decoration: none;
   font-style: italic;
 }
 
