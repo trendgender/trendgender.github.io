@@ -7,7 +7,7 @@ html, body {
 }
 
 a {
-   background-color: white;
+   background-color: lime;
    line-height: 1.3em;
    font-family: monospace;
   color: black;
@@ -15,26 +15,26 @@ a {
 }
 
 a:visited {
-   background-color: white;
+   background-color: lime;
    line-height: 1.3em;
    font-family: monospace;
   color: black;
   text-decoration: none;
 }
 a:hover {
- background-color: white;
+ background-color: black;
    line-height: 1.3em;
    font-family: monospace;
-  color: black;
+  color: lime;
   text-decoration: none;
   font-style: italic;
 }
 
 a:selected {
-   background-color: white;
+   background-color: black;
    line-height: 1.3em;
    font-family: monospace;
-  color: black;
+  color: lime;
   text-decoration: none;
   font-style: italic;
 }
