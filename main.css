@@ -24,16 +24,6 @@ a:hover {
 a:selected {
   color: lime;
   line-height: 1.3em;
-}
-
-h1{
-  text-transform: uppercase;
-  font-weight: 900;
-  font-size: 3em;
-  text-align: center;
-  color: black;
-  padding: 0em;
-  margin-bottom: 2em;
 
 }
 
