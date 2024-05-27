@@ -7,7 +7,7 @@ html, body {
 }
 
 a {
-   background-color: limegreen;
+   background-color: lightgreen;
    line-height: 1.3em;
    font-family: monospace;
   color: black;
@@ -15,7 +15,7 @@ a {
 }
 
 a:visited {
-   background-color: limegreen;
+   background-color: lightgreen;
    line-height: 1.3em;
    font-family: monospace;
   color: black;
@@ -25,7 +25,7 @@ a:hover {
  background-color: black;
    line-height: 1.3em;
    font-family: monospace;
-  color: limegreen;
+  color: lightgreen;
   text-decoration: none;
   font-style: italic;
 }
@@ -34,7 +34,7 @@ a:selected {
    background-color: black;
    line-height: 1.3em;
    font-family: monospace;
-  color: limegreen;
+  color: lightgreen;
   text-decoration: none;
   font-style: italic;
 }
