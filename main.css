@@ -7,18 +7,10 @@ html, body {
 }
 
 a {
-   background-color: lightgreen;
-   line-height: 1.3em;
-   font-family: monospace;
-  color: black;
   text-decoration: none;
 }
 
 a:visited {
-   background-color: lightgreen;
-   line-height: 1.3em;
-   font-family: monospace;
-  color: black;
   text-decoration: none;
 }
 a:hover {
