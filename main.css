@@ -1,27 +1,44 @@
-html{
+html, body {
   background-color: white;
-}
-
- body, p {
    line-height: 1.3em;
    font-family: monospace;
+  color: black;
+  text-decoration: none;
 }
 
 a {
+   background-color: white;
+   line-height: 1.3em;
+   font-family: monospace;
   color: black;
-  line-height: 1.3em;
+  text-decoration: none;
 }
 
 a:visited {
-  color: black; 
-  line-height: 1.3em;
+   background-color: white;
+   line-height: 1.3em;
+   font-family: monospace;
+  color: black;
+  text-decoration: none;
 }
 a:hover {
-  color: white;
-  line-height: 1.3em;
+ background-color: white;
+   line-height: 1.3em;
+   font-family: monospace;
+  color: black;
+  text-decoration: none;
+  font-style: italic;
 }
 
 a:selected {
-  color: white;
-  line-height: 1.3em; 
+   background-color: white;
+   line-height: 1.3em;
+   font-family: monospace;
+  color: black;
+  text-decoration: none;
+  font-style: italic;
+}
+
+p {
+  text-shadow: 2px 2px 5px lime;
 }
