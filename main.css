@@ -7,22 +7,30 @@ html, body {
 }
 
 a {
+  background-color: white;
   text-decoration: none;
+  line-height: 1.3em;
+  font-family: monospace;
 }
 
 a:visited {
+  background-color: white;
   text-decoration: none;
+  line-height: 1.3em;
+  font-family: monospace;
 }
 a:hover {
- background-color: black;
-   line-height: 1.3em;
+   background-color: white;
+  line-height: 1.3em;
    font-family: monospace;
-  color: lightgreen;
   text-decoration: none;
   font-style: italic;
 }
 
 a:selected {
+  background-color: white;
+  line-height: 1.3em;
+font-family: monospace;
    text-decoration: none;
   font-style: italic;
 }
